@@ -118,3 +118,15 @@
             font-size: 14px;
             color: #ccc;
         }
+        .a{
+          display: flex;
+          margin-left: 150px;
+          
+        }
+       .b{
+        height: 200px;
+        width: 300px;
+        font-family: raleway,sans-serif;
+        margin-left: 400px;
+        font-size: 18px;
+       }
